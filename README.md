@@ -1,2 +1,2 @@
-# Freeter Project
+# Freeter
 Software project management demonstration repository
