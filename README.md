@@ -1,2 +1,2 @@
-# pm
+# Freeter
 Software project management demonstration repository
